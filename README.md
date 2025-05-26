@@ -6,7 +6,7 @@
 1. 下载目录
 2. 谷歌浏览器加载已解压的扩展程序
 3. 在alpha的任何币交易页面就有显示了。
-类似链接：https://www.binance.com/zh-CN/alpha/bsc/0xc71b5f631354be6853efe9c3ab6b9590f8302e81
+比如页面：https://www.binance.com/zh-CN/alpha/bsc/0xc71b5f631354be6853efe9c3ab6b9590f8302e81
 
 作者：
 @K5EGU01  https://x.com/K5EGU01
