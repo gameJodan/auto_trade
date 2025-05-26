@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Binance Alpha Auto Trader",
+  "version": "2.0",
+  "description": "自动买入卖出以刷 Alpha 积分。作者：@K5EGU01，@web3_888",
+  "permissions": ["scripting", "tabs"],
+  "host_permissions": ["https://www.binance.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.binance.com/zh-CN/alpha/*"],
+      "js": ["floating_panel.js", "content.js"]
+    }
+  ],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
